@@ -1,0 +1,5 @@
+google-genai
+gradio
+chromadb
+sentence-transformer
+pypdf
